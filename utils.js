@@ -1,8 +1,6 @@
-const a =10;
+var a =10;
 a = a + 10;
-int i = 0
+var i = 0;
 for(i; i<10; i++){
-a+=1;    
+    a+=1;    
 }
-test
-egefgergerg
