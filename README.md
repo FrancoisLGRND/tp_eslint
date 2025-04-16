@@ -7,4 +7,11 @@ C:\Users\metal\Documents\tp-eslint-git\app.js
 
 ✖ 1 problem (1 error, 0 warnings)
 
+##Partie 4
 
+PS C:\Users\metal\Documents\tp-eslint-git> npm run lint
+
+> tp-eslint-git@1.0.0 lint
+> eslint .
+
+PS C:\Users\metal\Documents\tp-eslint-git>
